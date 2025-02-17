@@ -6,7 +6,8 @@
 - 😊 Pronome: Ele/Dele
 - 🗣️ Ingles: Basico 
 - ⚡ Curiosidade sobre mim: Comecei a estudar T.I em 2014 , Eu não tinha computador na epoca e usava o notebook da minha mãe que não suportava nenhuma linha de codigo😂 Não sabia o que era desenvolvimento de sistemas mas eu sabia que queria isso para mim, entre na faculdade sem saber fazer uma formula no Excel, e hoje percebo a minha evolução.
-    - 💡💭 "Contribuir para os sonhos de outros é semear o futuro com possibilidades, criando um ciclo onde todos podemos crescer juntos."
+  
+- 💡💭 "Contribuir para os sonhos de outros é semear o futuro com possibilidades, criando um ciclo onde todos podemos crescer juntos."
 
 🚀 Desenvolvedor Front-End apaixonado por tecnologia e inovação. Trabalho principalmente com **JavaScript, React, Angular** e estou sempre aprendendo novas tecnologias!  
 
